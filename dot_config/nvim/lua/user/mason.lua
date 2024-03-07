@@ -20,7 +20,6 @@ local mason_defaults = {
   "prettierd",
   "golangci-lint",
   "stylelint",
-  "jsonlint",
   "stylua"
 }
 
